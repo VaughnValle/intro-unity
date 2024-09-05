@@ -15,6 +15,12 @@
 8. Create a Triangle 2D Sprite
 9. Change name to Player/Specific name
 10. Double Click on the Hierarchy tab to recenter on a component
+11. Add a shape to represent the Player
+12. To add a component, click `Add Component`
+
+    > If using custom scripts, go all the way to bottom and select `New Script`
+
+    > Name your custom scripts in CamelCase
 
 ## Hierarchy
 
