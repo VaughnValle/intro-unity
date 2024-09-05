@@ -14,6 +14,7 @@
 7. You should now see 7 Sprites under `SpriteSheet_BasicShapes`
 8. Create a Triangle 2D Sprite
 9. Change name to Player/Specific name
+10. Double Click on the Hierarchy tab to recenter on a component
 
 ## Hierarchy
 
