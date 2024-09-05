@@ -1,4 +1,6 @@
-# Intro-unity
+# Game Development with Unity
+
+[Syllabus](/syllabus.pdf)
 
 ## Installation
 
