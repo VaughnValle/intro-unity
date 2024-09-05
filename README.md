@@ -3,7 +3,7 @@
 ## Installation
 
 -   Download [Unity Hub](https://unity.com/download)
--   Install Unity version [`2021.3.16f1`](unityhub://2021.3.16f1/4016570cf34f)
+-   Install Unity version `2021.3.16f1` [here](unityhub://2021.3.16f1/4016570cf34f)
 
 ## Dependencies
 
