@@ -2,7 +2,7 @@
 
 ## Preface
 
-Minecraft is holds a special place in my heart. It's what got me into engineering and much of my likes and hobbies I value are largely because of it. The power of a 3D sandbox lies in how it is the perfect environment for a child to unleash their creativity and mess around in an environment without negative repercussions compared to the real world.
+Minecraft holds a special place in my heart. It's what got me into engineering and much of my likes and hobbies I value are largely because of it. The power of a 3D sandbox lies in how it is the perfect environment for a child to unleash their creativity and mess around in an environment without negative repercussions compared to the real world.
 
 The goal of this project is to find ways this popular sandbox can be improved. The following points will illustrate how some of the key mechanisms of Minecraft can be undesirable.
 
@@ -19,3 +19,23 @@ The goal of this project is to find ways this popular sandbox can be improved. T
 -   Rigid body
 -   Tilemaps
 -   Perlin Noise generation
+
+### Features (Must Have)
+
+-   2D Platformer Game
+-   Time in top left
+-   Pause button
+-   Game UI (Start Menu and Game over screen)
+-   Music
+-   Scrolling Background
+    -   3D Quad
+    -   Made Scrolling material
+        -   switch material to unlit texture
+    -   Drag material to sprite
+    -   Make script
+        -   Code texture offset based on speed
+    -   Use velocity to move background from player movement
+    -   If background is smearing, make sure `Wrap Mode` is set to `Repeat`
+-   What are Shaders?
+
+### Concept
